@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Challenge</string>
+
+    <string name="ecuador">Ecuador</string>
+    <string name="brasil">Brasil</string>
+    <string name="argentina">Argentina</string>
+    <string name="peru">Peru</string>
+    <string name="colombia">Colombia</string>
+    <string name="bolivia">Bolivia</string>
+    <string name="others">Others</string>
+</resources>
